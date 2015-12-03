@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">권한 체크 샘플</string>
+    <string name="calendar_permission_title">캘린더</string>
+    <string name="camera_permission_title">카메라</string>
+    <string name="confirm">확인</string>
+    <string name="contact_permission_title">연락처</string>
+    <string name="deny">무시</string>
+    <string name="description">이 애플리케이션은 Android 6(Marshmallow)부터 변경되는 Runtime permission에 대한 샘플입니다.
+</string>
+    <string name="ex_storage_permission_title">외부 저장장치</string>
+    <string name="go_app_detail_setting">애플리케이션 설정 열기</string>
+    <string name="grant">허용</string>
+    <string name="location_permission_title">위치</string>
+    <string name="microphone_permission_title">마이크</string>
+    <string name="no">아니오</string>
+    <string name="ok">확인</string>
+    <string name="permission_denied">권한이 거부됨. 요청하겠습니까?</string>
+    <string name="permission_granted" translatable="false">권한이 허용됨</string>
+    <string name="phone_permission_title">전화</string>
+    <string name="request">요청하시겠습니까?</string>
+    <string name="request_permission">권한 요청</string>
+    <string name="sensor_permission_title">센서</string>
+    <string name="setting_permission_title">권한이 필요합니다.</string>
+    <string name="sms_permission_title">SMS</string>
+    <string name="yes">예</string>
+    <string name="setting_permission">일부 권한이 거부되었습니다.\n 애플리케이션 설정페이지로 이동하겠습니까?</string>
+    <string name="granted_all_permissions">모든 권한이 허용됨.</string>
+    <string name="reqiured_permission_title">필요한 권한</string>
+    <string name="denied_permission_title">거부된 권한</string>
+</resources>

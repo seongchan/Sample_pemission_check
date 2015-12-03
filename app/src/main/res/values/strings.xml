@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Permission check Sample</string>
+    <string name="description">This application is a sample of the Runtime permission check for Android 6(Marshmallow).</string>
+    <string name="calendar_permission_title">Calendar</string>
+    <string name="camera_permission_title">Camera</string>
+    <string name="contact_permission_title">Contact</string>
+    <string name="location_permission_title">Location</string>
+    <string name="microphone_permission_title">Microphone</string>
+    <string name="phone_permission_title">Phone</string>
+    <string name="sensor_permission_title">Sensor</string>
+    <string name="sms_permission_title">SMS</string>
+    <string name="ex_storage_permission_title">Exteral Storage</string>
+
+    <string name="reqiured_permission_title">Required permissions</string>
+    <string name="denied_permission_title">Denied permissions</string>
+    <string name="granted_all_permissions">Granted all permissions</string>
+
+    <string name="permission_denied">Permission DENIED. Request?</string>
+    <string name="permission_granted">Permission GRANTED</string>
+    <string name="request">Request?</string>
+
+    <string name="setting_permission_title">Permission required</string>
+
+    <string name="deny">DENY</string>
+    <string name="grant">GRANT</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="request_permission">Request permission</string>
+    <string name="go_app_detail_setting">Open App. Setting</string>
+    <string name="setting_permission">Some permission denied.\nWould you like to go to the Application Settings page?</string>
+</resources>
